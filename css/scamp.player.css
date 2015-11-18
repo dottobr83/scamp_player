@@ -26,7 +26,7 @@ Scamp Player Stylesheet
     left: 0;
     bottom: 0;
     bottom: -100%;
-    z-index: 999;
+    z-index: 99;
 }
 #scamp_player > a { display: none; }
 #scamp_player,  #sp-controls span {
@@ -446,7 +446,7 @@ Scamp Player Stylesheet
 /* List scroller */
 #scamp_player .iScrollHorizontalScrollbar {
     position: absolute;
-    z-index: 9999;
+    z-index: 199;
     height: 7px;
     left: 2px;
     right: 2px;

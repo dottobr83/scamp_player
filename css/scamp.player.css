@@ -73,10 +73,10 @@ Scamp Player Stylesheet
     overflow: hidden;
 }
 #scamp_player.sp-show-player #sp-wrap {
-    height: 64px;
+    height: 0px;
 }
 #scamp_player.sp-show-player.sp-show-list #sp-wrap {
-    height: 19px;
+    height: 0px;
 }
 .sp-container {
     width: 1170px;
